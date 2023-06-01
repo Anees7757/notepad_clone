@@ -3,4 +3,4 @@ made with C# .net
 
 clone repository and open in visual code and go on...
 
-[Download](Nodepad.exe)
+[Nodepad](https://github.com/Anees7757/notepad_clone/blob/master/Notepad.exe)
